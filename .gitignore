@@ -2,7 +2,6 @@
 bin/
 tmp/
 run/
-gradle/
 .gradle/
 build/
 *.tmp
