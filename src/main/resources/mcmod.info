@@ -1,0 +1,16 @@
+[
+{
+  "modid": "extinguish",
+  "name": "Extinguish",
+  "description": "Type /extinguish to extinguish all fire within 200 blocks of you",
+  "version": "",
+  "mcversion": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["meee39"],
+  "credits": "Simon Sim from Noun Project for the fire extinguisher icon",
+  "logoFile": "extinguish.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
