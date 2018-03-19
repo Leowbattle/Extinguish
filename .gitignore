@@ -1,14 +1,21 @@
 .metadata
 bin/
 tmp/
+run/
+gradle/
+.gradle/
+build/
 *.tmp
 *.bak
 *.swp
 *~.nib
+.DS_Store
 local.properties
 .settings/
 .loadpath
 .recommenders
+.classpath
+.project
 
 # External tool builders
 .externalToolBuilders/
