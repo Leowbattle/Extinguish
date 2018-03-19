@@ -1,6 +1,8 @@
 # Extinguish
 Minecraft Forge mod.
 
+https://minecraft.curseforge.com/projects/extinguish
+
 Have you ever been playing Minecraft and come across a massive out of control fire? Did it kill your FPS? Did it kill your trees? Did it kill your motivation to rebuild your wooden house?
 
  
