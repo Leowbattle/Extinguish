@@ -1,1 +1,2 @@
-commands.extinguish.usage="extinguish [range]"
+commands.extinguish.usage=extinguish [range]
+key.extinguish.desc=Keybind for /extinguish
